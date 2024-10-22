@@ -32,4 +32,12 @@ flutter:
     - assets/rendang.jpeg
     - assets/sate_ayam.jpeg
     - assets/soto_ayam.jpeg
+    - assets/background.jpg
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
 

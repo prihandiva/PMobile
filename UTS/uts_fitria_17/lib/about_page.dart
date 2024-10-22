@@ -15,7 +15,7 @@ class AboutPage extends StatelessWidget {
           children: [
             // Gambar ilustrasi atau logo
             Image.asset(
-              'assets/logo.png',  // Tambahkan gambar yang relevan di folder assets
+              'assets/logo.jpg',  // Tambahkan gambar yang relevan di folder assets
               height: 150,
             ),
             SizedBox(height: 20),
