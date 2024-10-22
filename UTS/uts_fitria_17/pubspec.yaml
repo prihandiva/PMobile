@@ -1,0 +1,35 @@
+name: uts_fitria_17
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.jpg  # Pastikan file spesifik disebutkan jika hanya ingin memuat satu gambar.
+    - assets/ayam_bakar.jpeg
+    - assets/bakso.jpeg
+    - assets/es_jeruk.jpeg
+    - assets/es_teh.jpeg
+    - assets/gado_gado.jpeg
+    - assets/kopi_hitam.jpeg
+    - assets/mie_ayam.jpeg
+    - assets/nasi_goreng.png
+    - assets/nasi_uduk.jpeg
+    - assets/rendang.jpeg
+    - assets/sate_ayam.jpeg
+    - assets/soto_ayam.jpeg
+
